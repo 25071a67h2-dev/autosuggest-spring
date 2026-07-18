@@ -2,9 +2,6 @@ body{
     margin: 0px;
     background-color:rgb(184,175,175);
 }
-h1{
-    color: red;
-}
 .navbar{
     border-style: solid;
     border-width: 1px;
@@ -28,6 +25,12 @@ h1{
     border-radius: 30px;
     text-align:center;
     margin-top: 70px;
+    overflow:hidden;
+    margin-left:auto;
+    margin-right:auto;
+    padding-button: 20px;
+    background-color: white;
+    
     
 }
 .card img{
