@@ -4,3 +4,20 @@ h1{
 h2{
     color: blue;
 }
+.navbar{
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    padding: 20px;
+    text-align: center;
+}
+.navabr a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    font-size:20px;
+}
+.navbar a:hover{
+    color: blue;
+    background-color: aqua;
+}
